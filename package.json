@@ -1,0 +1,11 @@
+{
+  "name": "hello-circleci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dbgso/hello-circleci.git",
+  "author": "osaki <osaki@cloudpack.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
